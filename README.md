@@ -10,7 +10,7 @@ Dashboard Gestão é um aplicativo web em python streamlit de visualização de 
 
 A aplicação conta com um sistema de autenticação para proteger os dados e vários graficos interativos. Utiliza o google sheets como banco de dados e google oauth API para ler os dados.
 
-## Demos
+## Imagens
 ![Image 1](https://github.com/NikolasGeremias/dashboard-gestao/blob/main/img/demo/demo1.png)
 
 ![Imagem 2](https://github.com/NikolasGeremias/dashboard-gestao/blob/main/img/demo/demo2.png)
